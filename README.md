@@ -62,7 +62,6 @@ Projects related to:
 
 ---
 
-## 📁 Repository Structure
 
 
 
