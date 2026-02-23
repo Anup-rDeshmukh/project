@@ -15,7 +15,7 @@ This repository serves as a **central hub** linking all my hands-on work, learni
 
 Each project is organized by domain and contains its own documentation, code, and results.
 
-
+---
 
 ## 🧠 Domains Covered
 
@@ -39,7 +39,7 @@ Projects involving:
 
 **Technologies:** Scikit-learn, Python, Streamlit
 
----
+
 
 ### 🧬 Artificial Intelligence
 Projects exploring:
@@ -50,7 +50,7 @@ Projects exploring:
 
 **Technologies:** Python, AI algorithms, heuristics
 
----
+
 
 ### 🗄️ Database Management Systems (DBMS)
 Projects related to:
