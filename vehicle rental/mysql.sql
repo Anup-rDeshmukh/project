@@ -1,4 +1,4 @@
-
+--This database will be connected to the fronted by using mysqlconnector
 CREATE DATABASE IF NOT EXISTS vehicle_rental_db;
 USE vehicle_rental_db;
 
