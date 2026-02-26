@@ -5,3 +5,6 @@
 - Groups expenses into basic categories
 - Prepares text features using TF-IDF for future ML models
 - Saves a clean CSV file with only useful expense data
+
+ #Data downloaded from kaggle
+-for practicing on new data 
