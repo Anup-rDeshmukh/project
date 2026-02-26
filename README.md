@@ -28,7 +28,7 @@ Projects focusing on:
 
 **Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn
 
----
+
 
 ### 🤖 Machine Learning
 Projects involving:
@@ -39,7 +39,7 @@ Projects involving:
 
 **Technologies:** Scikit-learn, Python, Streamlit
 
----
+
 
 ### 🧬 Artificial Intelligence
 Projects exploring:
@@ -50,7 +50,7 @@ Projects exploring:
 
 **Technologies:** Python, AI algorithms, heuristics
 
----
+
 
 ### 🗄️ Database Management Systems (DBMS)
 Projects related to:
