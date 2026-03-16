@@ -75,7 +75,7 @@ def view_rentals():
         listbox.insert(END, f"ID:{r[0]} | {r[1]} | {r[2]} | {r[3]} days | ₹{r[4]} | {r[5]}")
 
 # ---------------------------
-# Dashboard
+# Dashboard !!
 # ---------------------------
 header = Frame(root, bg="#1f3b4d", height=80)
 header.pack(fill=X)
@@ -177,3 +177,4 @@ update_dashboard()
 view_available()
 
 root.mainloop()
+
