@@ -1,6 +1,6 @@
 from django.shortcuts import render
 
-def dashboard(request):
+def home(request):
 
     if request.method == "POST":
         uploaded_file = request.FILES.get("sms_csv")

@@ -136,8 +136,8 @@ font-weight:bold;
 <div class="logo"> Expense Tracker</div>
 
 <div class="nav-links">
-<a href="#">Dashboard</a>
-<a href="#">Upload CSV</a>
+<a href="{% url 'dashboard' %}">Dashboard</a>
+<a href="{% url 'upload' %}">Upload CSV</a>
 <a href="#">Login</a>
 <a href="#">Account</a>
 </div>
@@ -157,6 +157,7 @@ font-weight:bold;
 <p>Upload bank SMS CSV to automatically detect expenses</p>
 
 <form method="POST" enctype="multipart/form-data">
+    {% csrf_token %}
 
 <input type="file" name="sms_csv" accept=".csv">
 
