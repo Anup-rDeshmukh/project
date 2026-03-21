@@ -1,0 +1,13 @@
+message,category,spam
+"Rs 450 spent at Zomato for dinner",food,ham
+"Your Uber ride cost Rs 220",travel,ham
+"Salary credited INR 55000 from ABC Corp",salary,ham
+"Cashback of Rs 120 received",income,ham
+"Flight booking of Rs 5400 completed",travel,ham
+"Paid Rs 890 at BigBasket grocery",food,ham
+"You won a free iPhone click this link now",shopping,spam
+"Congratulations claim lottery prize urgently",income,spam
+"Amazon order payment of Rs 1499 successful",shopping,ham
+"Bus ticket payment of Rs 75",travel,ham
+"Monthly interest credited Rs 2300",income,ham
+"Dinner bill paid Rs 670 at restaurant",food,ham
